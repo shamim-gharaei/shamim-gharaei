@@ -1,16 +1,57 @@
-## Hi there 👋
+# Hi, I'm Shamim Gharaei 👋
 
-<!--
-**shamim-gharaei/shamim-gharaei** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Computer Science | Machine Learning & AI | Cybersecurity | Network Security | Data Analysis
 
-Here are some ideas to get you started:
+I am a Computer Science graduate interested in applying machine learning and data-driven methods to cybersecurity, network analysis, and anomaly detection.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+My work focuses on building practical machine learning projects, analyzing real-world datasets, and exploring intelligent approaches to security-related problems.
+
+## 🔬 Research Interests
+
+- Machine Learning & Artificial Intelligence
+- Cybersecurity
+- Network Security
+- Network Intrusion Detection
+- Anomaly Detection
+- Data Analysis
+- Social Network Analysis
+
+## 🚀 Featured Project
+
+### Network Intrusion Anomaly Detection
+
+An end-to-end machine learning project for detecting **PortScan attacks** in network traffic using the **CICIDS2017 dataset**.
+
+The project includes:
+
+- Data preprocessing and exploratory analysis
+- Logistic Regression, Decision Tree, and Random Forest models
+- Model comparison and evaluation
+- Confusion matrix analysis
+- Feature importance analysis
+- Trained model persistence
+- Reproducible Jupyter Notebook workflow
+
+**Final Random Forest performance:**
+
+- Accuracy: **99.9906%**
+- Precision: **100.0000%**
+- Recall: **99.9779%**
+- F1-score: **99.9890%**
+
+👉 [View the project](https://github.com/shamim-gharaei/network-intrusion-anomaly-detection)
+
+## 🛠️ Technical Skills
+
+**Programming:** Python  
+**Machine Learning:** Scikit-learn, Classification, Random Forest  
+**Data Analysis:** Pandas, NumPy  
+**Visualization:** Matplotlib  
+**Tools:** Jupyter Notebook, Git, GitHub  
+**Domains:** Cybersecurity, Network Security, Anomaly Detection
+
+## 📫 Connect with Me
+
+[LinkedIn](https://www.linkedin.com/in/shamimgharaei)
+
+**Email:** [shamim.gharaei2002@gmail.com](mailto:shamim.gharaei2002@gmail.com)
