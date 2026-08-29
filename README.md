@@ -1,6 +1,6 @@
 # Hi, I'm Shamim Gharaei 👋
 
-### Computer Science | Machine Learning & AI | Cybersecurity | Network Security | Data Analysis
+### Computer Science | Machine Learning & AI | Network Security | Data Analysis
 
 I am a Computer Science graduate interested in applying machine learning and data-driven methods to cybersecurity, network analysis, and anomaly detection.
 
