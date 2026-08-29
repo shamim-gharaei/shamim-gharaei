@@ -9,7 +9,6 @@ My work focuses on building practical machine learning projects, analyzing real-
 ## 🔬 Research Interests
 
 - Machine Learning & Artificial Intelligence
-- Cybersecurity
 - Network Security
 - Network Intrusion Detection
 - Anomaly Detection
