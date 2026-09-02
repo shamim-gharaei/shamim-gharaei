@@ -22,7 +22,9 @@
 </p>
 
 <hr>
- About Me
+<h2>
+  <span style="font-size: 32px;">👩🏻‍💻</span> About Me
+</h2>
 
 I'm a Computer Engineering graduate interested in building my technical and research skills through practical projects.
 
