@@ -28,7 +28,10 @@ My recent work includes projects on anomaly detection using network and social-n
 
 ## 🔬 Research Interests
 
-`Anomaly Detection` • `Machine Learning` • `Network Intrusion Detection` • `Social Network Analysis`
+- Anomaly Detection
+- Machine Learning
+- Network Intrusion Detection
+- Social Network Analysis
 
 ---
 
