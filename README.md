@@ -10,7 +10,7 @@
 <a href="https://shamim-gharaei.github.io/"><img src="https://img.shields.io/badge/Website-Academic%20Portfolio-8FA6C6?style=flat-square&logo=googlechrome&logoColor=white&labelColor=8FA6C6"></a>
 <a href="mailto:shamim.gharaei2002@gmail.com"><img src="https://img.shields.io/badge/Email-shamim.gharaei2002%40gmail.com-A894C4?style=flat-square&logo=gmail&logoColor=white&labelColor=A894C4"></a>
 </p>
----
+
 
 ## 👩🏻‍💻 About Me
 
