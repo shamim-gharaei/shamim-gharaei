@@ -6,13 +6,13 @@
 
 <p align="center">
   <a href="https://www.linkedin.com/in/shamimgharaei">
-    <img src="https://img.shields.io/badge/LinkedIn-shamimgharaei-FF8FB1?style=flat&logo=linkedin&logoColor=white">
+    <img src="https://img.shields.io/badge/LinkedIn-shamimgharaei-D99AB3?style=flat-square&logo=linkedin&logoColor=white">
   </a>
   <a href="https://github.com/shamim-gharaei">
-    <img src="https://img.shields.io/badge/GitHub-shamim--gharaei-B7E4C7?style=flat&logo=github&logoColor=333333">
+    <img src="https://img.shields.io/badge/GitHub-shamim--gharaei-9FC6AA?style=flat-square&logo=github&logoColor=white">
   </a>
   <a href="mailto:shamim.gharaei2002@gmail.com">
-    <img src="https://img.shields.io/badge/Email-shamim.gharaei2002%40gmail.com-A78BFA?style=flat&logo=gmail&logoColor=white">
+    <img src="https://img.shields.io/badge/Email-shamim.gharaei2002%40gmail.com-A996D6?style=flat-square&logo=gmail&logoColor=white">
   </a>
 </p>
 
