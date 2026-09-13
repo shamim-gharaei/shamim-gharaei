@@ -5,10 +5,10 @@
 </p>
 
 <p align="center">
-<a href="https://www.linkedin.com/in/shamimgharaei"><img src="https://img.shields.io/badge/LinkedIn-shamimgharaei-D7A0B2?style=flat-square&logo=linkedin&logoColor=white"></a>
-<a href="https://github.com/shamim-gharaei"><img src="https://img.shields.io/badge/GitHub-shamim--gharaei-9FB9A8?style=flat-square&logo=github&logoColor=white"></a>
-<a href="https://shamim-gharaei.github.io/"><img src="https://img.shields.io/badge/Website-Academic%20Portfolio-91A9C3?style=flat-square&logo=googlechrome&logoColor=white"></a>
-<a href="mailto:shamim.gharaei2002@gmail.com"><img src="https://img.shields.io/badge/Email-shamim.gharaei2002%40gmail.com-B29BCB?style=flat-square&logo=gmail&logoColor=white"></a>
+<a href="https://www.linkedin.com/in/shamimgharaei"><img src="https://img.shields.io/badge/LinkedIn-shamimgharaei-C98DA3?style=flat-square&logo=linkedin&logoColor=white&labelColor=C98DA3"></a>
+<a href="https://github.com/shamim-gharaei"><img src="https://img.shields.io/badge/GitHub-shamim--gharaei-8EAD9D?style=flat-square&logo=github&logoColor=white&labelColor=8EAD9D"></a>
+<a href="https://shamim-gharaei.github.io/"><img src="https://img.shields.io/badge/Website-Academic%20Portfolio-8FA6C6?style=flat-square&logo=googlechrome&logoColor=white&labelColor=8FA6C6"></a>
+<a href="mailto:shamim.gharaei2002@gmail.com"><img src="https://img.shields.io/badge/Email-shamim.gharaei2002%40gmail.com-A894C4?style=flat-square&logo=gmail&logoColor=white&labelColor=A894C4"></a>
 </p>
 ---
 
